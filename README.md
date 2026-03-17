@@ -39,10 +39,10 @@ The final **Logistic Regression** model was chosen for its high interpretability
 
 | Model | Accuracy | F1-Score |
 | :--- | :--- | :--- |
-| Logistic Regression | ~85% | Optimized |
-| KNN | Evaluated | Evaluated |
-| SVM | Evaluated | Evaluated |
-| Decision Tree | Evaluated | Evaluated |
+| Logistic Regression | 93.1% | 94.67% |
+| KNN | 76.73% | 82.39% |
+| SVM | 63.51 | 77.68% |
+| Decision Tree | 86.39% | 89.34% |
 
 ---
 
