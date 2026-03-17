@@ -7,7 +7,7 @@
 ## 📌 Project Overview
 This project aims to predict student academic outcomes (**Graduate** vs. **Dropout**) by analyzing a comprehensive dataset of demographic, socio-economic, and academic factors. By identifying "at-risk" students early, educational institutions can implement targeted interventions to improve retention rates.
 
-**Dataset Source:** [Kaggle - Higher Education Predictors of Student Retention](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention)
+**Dataset Source:** [Kaggle - Predict students' dropout and academic success](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention)
 
 ---
 
